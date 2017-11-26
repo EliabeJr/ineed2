@@ -8,7 +8,7 @@
     "production": "webpack --progress -p"
   },
   "keywords": [],
-  "author": "Eliabe Jr",
+  "author": "eliabejr",
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.15.3",
